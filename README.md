@@ -1,5 +1,5 @@
 # Olá! Sou o Anderson Straube
-Especialista em Arquitetura de Soluções
+Consultor em Arquitetura de Soluções
 
 ## Sobre
 Trabalho na área de TI há mais de 20 anos e possuo experiência com sistemas de grande porte, alta disponibilidade, segurança a nível de aplicação, definição de padrões de desenvolvimento e governança, gerenciamento de fábricas de software, implantação de controle de qualidade, Tech Lead, metodologias Ágeis e gosto por desafios.
